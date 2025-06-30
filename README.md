@@ -1,4 +1,5 @@
 📉 Test a/b
+![test ab](https://github.com/user-attachments/assets/c2727e66-dcc0-46b1-9232-9e56c6421235)
 
 Goal: researching user behavior for the application of a start-up company selling food products.
 
